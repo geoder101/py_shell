@@ -3,4 +3,4 @@ python:
     - "2.6"
     - "2.7"
     - "pypy"
-script: ./ci-run.sh
+script: ./travis-run.sh

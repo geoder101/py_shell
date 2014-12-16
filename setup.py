@@ -9,7 +9,7 @@ setup(
     license="MIT",
     author="George Dernikos",
     author_email="geoder101@gmail.com",
-    description="Handy functions to execute external shell commands",
+    description="Handy functions to execute external commands",
     url="https://github.com/geoder101/py_shell",
     packages=find_packages()
 )
